@@ -1,0 +1,3 @@
+[submodule "picoc"]
+	path = picoc
+	url = git@gitlab.com:zsaleeba/picoc.git
